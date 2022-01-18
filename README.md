@@ -1,9 +1,9 @@
 # Predictive_Modeling_to_Identify_Diabetic_Patients
 
-### Machine Learning Models Deployed
+#### Machine Learning Models Deployed (in Python)
 SVC, Logistic Regression, Decision Tree Classifier, Random Forest, XGBoost
 
-### Techniques Employed
+#### Techniques Employed
 Exploratory Data Analysis, Data Visualization, Dimension Reduction, PCA, Cross Validation, ROC Curve, Machine Learning
 
 ### Context
